@@ -8,7 +8,7 @@ A web-based simulator for visualizing projectile motion, plotting height (in met
 - **Results Display**: Shows maximum height, total time of flight, and range in a card-based layout.
 - **Input Validation**: Ensures velocity ≥ 0 and angle between 0–90° with user-friendly alerts.
 - **Responsive Design**: Works on desktop and mobile devices, with a centered "Simulate Throw" button.
-- **Professional UI**: Clean styling with a modern color scheme and grid layout.
+- **Good UI**: Clean styling with a modern color scheme and grid layout.
 
 ## Screenshots
 ![Simulator Screenshot](assets/Project_Screenshot.png)  
